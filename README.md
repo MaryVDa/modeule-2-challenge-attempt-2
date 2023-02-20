@@ -21,6 +21,7 @@ THEN I am taken to that deployed application.
 WHEN I resize the page or view the site on various screens and devices.
 THEN I am presented with a responsive layout that adapts to my viewport.
 
-![image](https://user-images.githubusercontent.com/122223756/219988129-4d9758c3-8829-4608-a413-083817c0485f.png)
+![image](https://user-images.githubusercontent.com/122223756/219990107-5fd0fcfe-b3a5-435e-b8f8-ffe258b74be3.png)
+![image](https://user-images.githubusercontent.com/122223756/219990158-03d15c9e-94cf-48b2-806e-31f0e427c506.png)
 
 https://github.com/MaryVDa/modeule-2-challenge-attempt-2.git
