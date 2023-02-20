@@ -20,3 +20,6 @@ WHEN I click on the images of the applications.
 THEN I am taken to that deployed application.
 WHEN I resize the page or view the site on various screens and devices.
 THEN I am presented with a responsive layout that adapts to my viewport.
+
+![image](https://user-images.githubusercontent.com/122223756/219987839-726661a7-c42c-440c-a876-79bb9c214da5.png)
+https://github.com/MaryVDa/modeule-2-challenge-attempt-2.git
