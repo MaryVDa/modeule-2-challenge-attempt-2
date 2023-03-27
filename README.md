@@ -1,12 +1,12 @@
 # modeule-2-challenge-attempt-2
 2nd attempt at module 2 challenge
 
-User Story:
+# User Story:
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples.
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position.
 
-Acceptance Criteria:
+# Acceptance Criteria:
 GIVEN I need to sample a potential employee's previous work.
 WHEN I load their portfolio.
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them.
@@ -24,4 +24,4 @@ THEN I am presented with a responsive layout that adapts to my viewport.
 ![image](https://user-images.githubusercontent.com/122223756/219990107-5fd0fcfe-b3a5-435e-b8f8-ffe258b74be3.png)
 ![image](https://user-images.githubusercontent.com/122223756/219990158-03d15c9e-94cf-48b2-806e-31f0e427c506.png)
 
-https://github.com/MaryVDa/modeule-2-challenge-attempt-2.git
+# Link to site: https://maryvda.github.io/modeule-2-challenge-attempt-2/
